@@ -1,0 +1,18 @@
+header {
+	background-color: salmon;
+}
+
+header ul {
+	display: inline-block;
+}
+
+header ul li {
+	display: inline-block;
+}
+
+header ul li a {
+	margin-right: 20px;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
