@@ -1,1 +1,1 @@
-# web-component
+# web-component-dut
